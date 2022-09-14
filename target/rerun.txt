@@ -1,0 +1,3 @@
+file:src/main/resources/Features/F07_followUs.feature:17
+file:src/main/resources/Features/F04_Search.feature:20:21
+file:src/main/resources/Features/F05_hoverCategories.feature:4
